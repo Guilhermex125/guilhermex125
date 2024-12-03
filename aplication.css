@@ -1,0 +1,41 @@
+body{
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+  background: url(FOTO_BANCO.jpeg) center;
+  background-size: 60%;
+  font-family: sans-serif;
+  line-height: 1.80; /*tamanho de espaçamento de uma linha para outra*/
+  color: #ffffff;  
+}
+
+main{
+  background: #000000c4;
+  padding: 5px 40px; /*espaçamento entre as bordas*/
+  margin-top: 20px;
+  border-radius: 15px; /*deixa arrendodado as bordas*/
+}
+
+.logo, .nome, .slogan{ /*definir a margem e alinhamnento do texto sendo o mesmo pra todas imagens*/
+  margin: 0;
+  text-align: center;
+}
+
+
+button{
+  color:#e01111;
+  background: #a9a8a80f;
+  text-align:center;
+  border-radius: 30%;
+  width:60%;
+  height: 60px;
+  font-family: sans-serif;
+
+  
+}
+
+.corlink{
+
+  color: rgb(221, 221, 221);
+
+}
